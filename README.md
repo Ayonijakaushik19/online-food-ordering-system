@@ -3,5 +3,5 @@ The Online Food Order System In PHP is a simple project developed using PHP, Jav
 
 For the user section, the users can go through the homepage, about, and contact pages. In order to order the food items, the user has to create an account and sign in or log in. The food comes with the cost as well. This project makes a convenient way for customers to buy/purchase food online, without having to go to the restaurant.
 
-#about system
-his Online Food Order System is in PHP, JavaScript, and CSS. Talking about the features of this system, it contains the admin(manager) section and the user (customer) section. All the editings, updating, managing order details, food items, and restaurants are from the admin section while customers can only go through the site and give orders if want. The design of this system is simple so that the user won’t get any difficulties while working on it.
+# about system
+This Online Food Order System is in PHP, JavaScript, and CSS. Talking about the features of this system, it contains the admin(manager) section and the user (customer) section. All the editings, updating, managing order details, food items, and restaurants are from the admin section while customers can only go through the site and give orders if want. The design of this system is simple so that the user won’t get any difficulties while working on it.
